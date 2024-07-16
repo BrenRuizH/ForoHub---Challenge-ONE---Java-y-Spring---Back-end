@@ -1,7 +1,3 @@
-Great, here’s a simple README for your ForoHub project:
-
----
-
 # ForoHub - Challenge ONE - Java and Spring - Back End
 
 ForoHub is a backend API project to implement a forum system using Java and Spring. This API allows users to create, read, update, and delete forum topics. The project also includes authentication and authorization to manage access to the forum data.
